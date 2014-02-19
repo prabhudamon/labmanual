@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CP 7212 OPERATING SYSTEM DESIGN MANUAL"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="318dp"
+        android:text="
+1. Development of a reasonably sized dynamically loadable kernel module for Linux
+kernel
+19 \n
+2. Study educational operating systems such as Minix (http://www.minix3.org/), Weenix
+(http://weenix.cs.brown.edu/mediawiki/index.php/Weenix) and develop reasonably
+sized interesting modules for them.\n
+3. Study the Android open source operating system for mobile devices
+(http://source.android.com/) and develop / modify some modules.\n
+4. Study any embedded and real-time operating system such as eCos
+(http://ecos.sourceware.org/) and develop / modify some modules.
+        
+        
+        " />
+
+    
+
+</LinearLayout>
